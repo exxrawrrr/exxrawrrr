@@ -1,16 +1,54 @@
-## Hi there 👋
+# exxrawrrr
 
-<!--
-**exxrawrrr/exxrawrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Built from raw ideas, executed through AI.**
 
-Here are some ideas to get you started:
+I work around **digital growth, web, automation, and AI experiments**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One important disclaimer:
+
+> **Trust me, I can't code.**
+
+Most things you'll find here were built with AI.  
+I bring the ideas, context, unreasonable requests, and the occasional:
+
+`"why is this not working?"`
+
+The AI handles the syntax.
+
+## What I'm doing here
+
+I like experimenting with things that are actually useful.
+
+- **AI agents & automation** — learning how agents, tools, MCP, memory, local models, and workflows fit together.
+- **Web & digital projects** — websites, internal tools, marketing systems, and random experiments that somehow became real projects.
+- **Git & GitHub** — learning how software moves from an idea into code, commits, branches, and something that hopefully works.
+
+## My development methodology
+
+```text
+Have an idea
+    ↓
+Explain it to AI
+    ↓
+AI writes code
+    ↓
+Something breaks
+    ↓
+Ask AI why
+    ↓
+AI fixes what AI broke
+    ↓
+Commit
+    ↓
+Pretend this was the plan
+```
+
+## Currently exploring
+
+`AI Agents` · `MCP` · `Automation` · `Local AI` · `Web Development` · `GitHub`
+
+I'm less interested in memorizing every programming language and more interested in understanding **what technology can do, how the pieces connect, and how to make AI build useful things with me.**
+
+---
+
+**Code written by AI. Bad ideas approved by exxrawrrr.**
